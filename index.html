@@ -27,11 +27,19 @@
 </body>
 
 <script>
-  if (Math.random)> 0.5) {
+  //if (Math.random)> 0.5) {
     
-  document.body.innerText = "🐇"
-  } else {
-  document.body.innerText = "♡"
+  // document.body.innerText = "🐇"
+  // } else {
+  // document.body.innerText = "♡"
+  //}
+  
+  for (let i = 0; i < 1000; i++) {
+    if (Math.random() > 0.5) {
+      document.body.innerText += "🐇"
+    } else {     
+      document.body.innerText += "♡"
+      }
   }
    
  
