@@ -2,7 +2,7 @@
 
 See me at https://cultbunni.github.io/goth-bitches/ !
 
-![screenshot](i-love-goth-bitches-barcode-screensho.png)
+![screenshot](i-love-goth-bitches-barcode-screenshot.png)
 
 ◕ ◞ ◕ This project was made using https://netnet.studio
 
